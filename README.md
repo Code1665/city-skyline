@@ -1,4 +1,4 @@
-City Skyline
+# City Skyline
 
 A City Skyline which changes by day and night. 
 
@@ -6,7 +6,7 @@ To change from day to night --> minimize the window.
 
 # To navigate 
 
-to the project, you can just click on the domain [here]((https://dayandnight-city-skyline.netlify.app/))
+to the project, you can just click on the domain [here](https://dayandnight-city-skyline.netlify.app/)
 and add you're preferencials.
 Contributions are welcome! Here's how you can contribute:
 
